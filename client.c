@@ -1,7 +1,7 @@
 
 /* 
  * File:   client.c
- * Author: Muneeb Ahmad
+ * Author: Arjun Pratap Choudhary
  *
  */
 
