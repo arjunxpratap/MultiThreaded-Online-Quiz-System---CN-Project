@@ -1,7 +1,7 @@
 
 /* 
  * File:   Main_Server.c
- * Author: Muneeb Ahmad
+ * Author: Arjun Pratap Choudhary
  */
 #include <stdio.h> 
 #include <string.h> 
